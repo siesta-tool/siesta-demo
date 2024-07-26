@@ -48,4 +48,4 @@ SIESTA also supports event logs with the extension **.xes**, which are common in
 Business Process Management community. In the demonstration we utilize the dataset from the Business Process Intelligence
 Challenge 2017, which can be found here (https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884).
 
-[Demo Video] (https://drive.google.com/file/d/1TzgwGuBD05qBT1cegLKHKJZmJt2DHQ3j/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1TzgwGuBD05qBT1cegLKHKJZmJt2DHQ3j/view?usp=sharing)
