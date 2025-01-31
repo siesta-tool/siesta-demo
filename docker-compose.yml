@@ -32,6 +32,7 @@ services:
       master.uri: local[4] # or local[*]
       database: s3 # cassandra-rdd or s3
       #for s3 (minio)
+      delta: false # true for streaming, false for batching 
       s3.endpoint: http://minio:9000
       s3.user: minioadmin
       s3.key: minioadmin
