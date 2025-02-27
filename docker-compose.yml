@@ -34,6 +34,8 @@ services:
       - '8090:8090'
     networks:
       - siesta-net
+    depends_on:
+      - createbuckets
 
   ui:
     image: mavroudo/siesta-ui

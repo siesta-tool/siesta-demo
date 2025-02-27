@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="Application_16193774" />
+		<event>
+			<string key="concept:name" value="A_Create Application" />
+			<date key="time:timestamp" value="2016-12-19T21:05:13+00:00" />
+			<int key="@@index" value="0" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Submitted" />
+			<date key="time:timestamp" value="2016-12-19T21:05:15+00:00" />
+			<int key="@@index" value="1" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Handle leads" />
+			<date key="time:timestamp" value="2016-12-19T21:05:15+00:00" />
+			<int key="@@index" value="2" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Handle leads" />
+			<date key="time:timestamp" value="2016-12-19T21:06:12+00:00" />
+			<int key="@@index" value="3" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Handle leads" />
+			<date key="time:timestamp" value="2016-12-19T21:06:23+00:00" />
+			<int key="@@index" value="4" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Handle leads" />
+			<date key="time:timestamp" value="2016-12-19T21:06:30+00:00" />
+			<int key="@@index" value="5" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Complete application" />
+			<date key="time:timestamp" value="2016-12-19T21:06:30+00:00" />
+			<int key="@@index" value="6" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Concept" />
+			<date key="time:timestamp" value="2016-12-19T21:06:30+00:00" />
+			<int key="@@index" value="7" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Complete application" />
+			<date key="time:timestamp" value="2016-12-19T21:09:53+00:00" />
+			<int key="@@index" value="8" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Accepted" />
+			<date key="time:timestamp" value="2016-12-19T21:15:46+00:00" />
+			<int key="@@index" value="9" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Create Offer" />
+			<date key="time:timestamp" value="2016-12-19T21:25:31+00:00" />
+			<int key="@@index" value="10" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Created" />
+			<date key="time:timestamp" value="2016-12-19T21:25:31+00:00" />
+			<int key="@@index" value="11" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Sent (mail and online)" />
+			<date key="time:timestamp" value="2016-12-19T21:25:41+00:00" />
+			<int key="@@index" value="12" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Complete application" />
+			<date key="time:timestamp" value="2016-12-19T21:25:41+00:00" />
+			<int key="@@index" value="13" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2016-12-19T21:25:41+00:00" />
+			<int key="@@index" value="14" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2016-12-19T21:25:41+00:00" />
+			<int key="@@index" value="15" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Complete" />
+			<date key="time:timestamp" value="2016-12-19T21:25:41+00:00" />
+			<int key="@@index" value="16" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2016-12-19T21:27:38+00:00" />
+			<int key="@@index" value="17" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2016-12-23T08:31:55+00:00" />
+			<int key="@@index" value="18" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2016-12-23T08:31:55+00:00" />
+			<int key="@@index" value="19" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Create Offer" />
+			<date key="time:timestamp" value="2017-01-18T21:46:57+00:00" />
+			<int key="@@index" value="20" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Created" />
+			<date key="time:timestamp" value="2017-01-18T21:46:57+00:00" />
+			<int key="@@index" value="21" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Sent (mail and online)" />
+			<date key="time:timestamp" value="2017-01-18T21:49:02+00:00" />
+			<int key="@@index" value="22" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call after offers" />
+			<date key="time:timestamp" value="2017-02-01T10:07:34+00:00" />
+			<int key="@@index" value="23" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Validate application" />
+			<date key="time:timestamp" value="2017-02-01T10:07:34+00:00" />
+			<int key="@@index" value="24" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Validate application" />
+			<date key="time:timestamp" value="2017-02-01T10:07:34+00:00" />
+			<int key="@@index" value="25" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Validating" />
+			<date key="time:timestamp" value="2017-02-01T10:07:35+00:00" />
+			<int key="@@index" value="26" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="O_Returned" />
+			<date key="time:timestamp" value="2017-02-01T10:08:25+00:00" />
+			<int key="@@index" value="27" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Validate application" />
+			<date key="time:timestamp" value="2017-02-01T10:11:29+00:00" />
+			<int key="@@index" value="28" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Validate application" />
+			<date key="time:timestamp" value="2017-02-01T11:40:39+00:00" />
+			<int key="@@index" value="29" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call incomplete files" />
+			<date key="time:timestamp" value="2017-02-01T11:40:39+00:00" />
+			<int key="@@index" value="30" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call incomplete files" />
+			<date key="time:timestamp" value="2017-02-01T11:40:39+00:00" />
+			<int key="@@index" value="31" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="A_Incomplete" />
+			<date key="time:timestamp" value="2017-02-01T11:40:39+00:00" />
+			<int key="@@index" value="32" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call incomplete files" />
+			<date key="time:timestamp" value="2017-02-01T11:43:14+00:00" />
+			<int key="@@index" value="33" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call incomplete files" />
+			<date key="time:timestamp" value="2017-02-01T15:50:56+00:00" />
+			<int key="@@index" value="34" />
+			<int key="@@case_index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="W_Call incomplete files" />
+			<date key="time:timestamp" value="2017-02-01T16:09:03+00:00" />
+			<int key="@@index" value="35" />
+			<int key="@@case_index" value="0" />
+		</event>
+	</trace>
+</log>
