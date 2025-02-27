@@ -213,11 +213,13 @@ Two sample event logs are available in the `/datasets` folder. The datasets are 
 
 
 ## Publications
-SIESTA has been featured in various academic and industry publications:
+SIESTA has been featured in various publications:
 
-1. **"Efficient Sequence Detection in Large Event Logs"** - Conference on Data Science 2022
-2. **"Scalable Event Log Processing with Distributed Architectures"** - ACM SIGMOD 2023
-3. **"SIESTA: A Framework for Real-Time Event Stream Analysis"** - IEEE Big Data 2024
+1. [**Sequence detection in event log files**](https://openproceedings.org/2021/conf/edbt/p68.pdf) - Conference EDBT 2021
+2. [**SIESTA: A scalable infrastructure of sequential pattern analysis**](https://ieeexplore.ieee.org/abstract/document/9984935) - IEEE Transaction on Big Data 2022
+
+3. [**A Comprehensive Scalable Framework for Cloud-Native Pattern Detection with Enhanced Expressiveness**](https://arxiv.org/pdf/2401.09960) - Arxiv 2024
+4. [**Exploiting General Purpose Big-Data Frameworks in Process Mining: The Case of Declarative Process Discovery**](https://link.springer.com/chapter/10.1007/978-3-031-70396-6_11) - Conference BPM 2024
 
 
 ## License
