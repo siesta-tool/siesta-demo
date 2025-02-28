@@ -201,10 +201,14 @@ And the response will be a long list with constraints
 Obviously, this looks better in the UI.
 
 ### _Bonus example:_ Incremental Declare Mining
-A recently added feature is **Incremental Declare Mining**. This allows users to perform a small post-processing step after index building to extract key statistics. These statistics enhance the query processor’s ability to efficiently extract Declare constraints.
-Although this post-processing step is integrated into the preprocessing component, it can also be used independently. For example, a company might choose to index its log files every few hours but may only need to mine the most recent constraints once a week.
-Additionally, the query processor will automatically utilize these statistics when available, requiring no extra configuration. This feature is particularly beneficial in **big data scenarios**, where event volume grows significantly.
-To demonstrate this, we have included an extended example in the [`incremental_mining`](./incremental_mining) folder, showcasing how we artificially generate large log files and incrementally extract constraints.
+A recently added feature is **Incremental Declare Mining**. This allows users to perform a small post-processing step after 
+index building to extract key statistics. These statistics enhance the query processor’s ability to efficiently extract Declare constraints.
+Although this post-processing step is integrated into the preprocessing component, it can also be used independently. 
+For example, a company might choose to index its log files every few hours but may only need to mine the most recent constraints once a week.
+Additionally, the query processor will automatically utilize these statistics when available, requiring no extra configuration. 
+This feature is particularly beneficial in **big data scenarios**, where event volume grows significantly.
+To demonstrate this, we have included an extended example in the [`incremental_mining`](./incremental_mining) folder, 
+showcasing how we artificially generate large log files and incrementally extract constraints.
 
 ## Datasets
 Two sample event logs are available in the `/datasets` folder. The datasets are formatted in two ways:
