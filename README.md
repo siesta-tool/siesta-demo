@@ -234,7 +234,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Additional Resources
 
-- [Demo Video](./assets/siesta-demo.mp4)
+- [Demo Video](https://drive.google.com/file/d/13RsQ9CfXDP2DcFnHz_38C-HtHHNHm-W2/view?usp=sharing)
+  It can also be found in the assets folder (in case there is an issue with the above link)
 - [Preprocessing Component](https://github.com/siesta-tool/SequenceDetectionPreprocess) 
 - [Query Processor](https://github.com/siesta-tool/SequenceDetectionQueryExecutor)
 - [User Interface](https://github.com/siesta-tool/siesta-ui)
