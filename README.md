@@ -24,7 +24,8 @@ In the current implementation, we used an Object Storage System (OSS) with the S
 implementation of S3
 - **Query Processor**: This component functions as a RESTful API designed to handle pattern queries. 
 It leverages the stored indices to prune the search space and provide efficient responses.
-- **User Interface**: A React-based web application that enables end users to fully access all functionalities in a user-friendly manner.
+- **User Interface**: A React-based web application that enables end users to fully access all functionalities in a user-friendly manner. An example of the UI can be seen below. Pattern Detection (right) and Pattern Mining (left).
+![siesta-ui](https://github.com/user-attachments/assets/0459eab6-9b3c-4794-bcb6-432393d5288e)
 - **Message Broker**: Utilizes **Apache Kafka** for event streaming.
 - **Supporting Services**:  **PostgreSQL** (for metadata storage), and **Zookeeper** (for Kafka coordination).
 
@@ -228,6 +229,8 @@ SIESTA has been featured in various publications:
 
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+
 
 ## Additional Resources
 - [Demo Video](https://drive.google.com/file/d/1TzgwGuBD05qBT1cegLKHKJZmJt2DHQ3j/view?usp=sharing)
