@@ -225,6 +225,7 @@ SIESTA has been featured in various publications:
 3. [**A Comprehensive Scalable Framework for Cloud-Native Pattern Detection with Enhanced Expressiveness**](https://arxiv.org/pdf/2401.09960) - Arxiv 2024
 4. [**Exploiting General Purpose Big-Data Frameworks in Process Mining: The Case of Declarative Process Discovery**](https://link.springer.com/chapter/10.1007/978-3-031-70396-6_11) - Conference BPM 2024
 5. [**Declarative process mining in big data scenarios using an application-agnostic framework**](https://link.springer.com/article/10.1007/s44311-025-00013-9) - Process Science 2025
+6. [**Discovering Comprehensive Branched Declarative Process Constraints**](https://doi.org/10.1007/978-3-032-02929-4_9) - Conference Forum BPM 2025 
 
 ## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
